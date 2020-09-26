@@ -6,5 +6,5 @@ To implement my knowledge of Object-Oriented-Design Patterns, testing, error-han
 ## How to use application 
 1. Open project with an IDE. 
 2. Run the Main class to open the application 
-3. Initally, there are no accounts within the information system, so you must log in as an admin (Username: admin, Password: admin) to create accounts for different arbitray Customers. 
-4. Then with set username and password created for each customer, you can log into a customers account and modify the acccount by withdrawing,deposting, and purchasing.  
+3. Initally, there are no accounts within the information system, so you must log in as an admin (Username: admin, Password: admin) to create accounts for different arbitrary    customers. 
+4. Then with the set username and password created for each customer through the admin, you can log into a customers account and modify the acccount by withdrawing,deposting, and purchasing.  
